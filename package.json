@@ -1,6 +1,6 @@
 {
-  "homepage": "http://nico.github.io/nico.github.io",
-  "name": "nico.github.io",
+  "homepage": "http://nico.github.io/nico",
+  "name": "nico",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
