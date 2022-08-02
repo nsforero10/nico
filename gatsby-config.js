@@ -1,7 +1,8 @@
+require("dotenv").config();
 module.exports = {
   siteMetadata: {
-    title: `nico`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `Nicolas Forero - Frontend Developer`,
+    siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: ["gatsby-plugin-styled-components"]
+  plugins: ["gatsby-plugin-styled-components"],
 };
